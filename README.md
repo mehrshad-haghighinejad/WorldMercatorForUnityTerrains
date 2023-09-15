@@ -4,6 +4,8 @@ This tool functions as a world Mercator coordinate calculator using the EPSG:339
 
 EPSG:3395 referene: https://epsg.io/3395
 
+**Important Note**: This Mercator projection differs from the commonly used Web Mercator projection. It excels particularly in polar regions, offering increased accuracy compared to the Web Mercator projection.
+
 
 # How to Use:
 
